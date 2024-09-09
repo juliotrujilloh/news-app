@@ -1,1 +1,1 @@
-#a news app using https://newscatcherapi.com/
+A news app using https://newscatcherapi.com/
